@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.linha1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: auto;
+    height: 6.66vh;
+    gap: 1px;
+}
+
+.bloco-azul{
+    background-color: #526bdb;
+    border-radius: 10%;
+    border: solid black 2px;
+    width: 6.66vh;
+    height: 6.66vh;
+   
+}
