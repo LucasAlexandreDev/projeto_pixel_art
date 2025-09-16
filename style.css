@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.linha1 , .linha2, .linha3, .linha4{
+.linha1 , .linha2, .linha3, .linha4, .linha5{
     display: flex;
     justify-content:center;
     align-items: center;
