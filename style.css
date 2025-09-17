@@ -38,6 +38,16 @@
     border-radius: 10%;
 }
 
+
+.bloco-vermelho:hover{
+    width: 7.5vh;
+    height: 7.5vh;
+    transition: all;
+    background-color: red;
+    border: solid black 2px;
+    border-radius: 10%;
+}
+
 .bloco-roxo{
     width: 6.66vh;
     height: 6.66vh;
