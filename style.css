@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.linha1 , .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12{
+.linha1 , .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12, .linha13{
     display: flex;
     justify-content:center;
     align-items: center;
@@ -46,5 +46,12 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: rgb(255, 251, 0);
+    border-radius: 10%;
+}
+
+.bloco-marrom{
+    width: 6.66vh;
+    height: 6.66vh;
+    background-color: #641717;
     border-radius: 10%;
 }
