@@ -11,6 +11,7 @@
     width: auto;
     height: 6.66vh;
     gap: 1px;
+    background-color: black;
 }
 
 .bloco-azul{
@@ -23,6 +24,7 @@
 
 .bloco-preto{
     background-color: black;
+    border: solid black 2px;
     border-radius: 10%;
     width: 6.66vh;
     height: 6.66vh;
@@ -32,6 +34,7 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: red;
+    border: solid black 2px;
     border-radius: 10%;
 }
 
@@ -39,6 +42,7 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: #9747e2;
+    border: solid black 2px;
     border-radius: 10%;
 }
 
@@ -46,6 +50,7 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: rgb(255, 251, 0);
+    border: solid black 2px;
     border-radius: 10%;
 }
 
@@ -53,6 +58,7 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: #641717;
+    border: solid black 2px;
     border-radius: 10%;
 }
 
@@ -60,5 +66,6 @@
     width: 6.66vh;
     height: 6.66vh;
     background-color: #3d8d3d;
+    border: solid black 2px;
     border-radius: 10%;
 }
